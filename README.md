@@ -5,6 +5,9 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobolgheroni&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobolgheroni)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Skills
 
 ![Linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
